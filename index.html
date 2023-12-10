@@ -2,6 +2,34 @@
     <head>
     </head>
     </body>
-        <p>hello torben<p>
+        <h1>Dumme Torben </h1>
+        <img class="bigImage" src="assets/dumme_torben.jpg" />
+        <audio autoplay >
+            <source src="https://cdn.pixabay.com/download/audio/2023/04/03/audio_f3c31009bc.mp3?filename=circus-145017.mp3" />
+        </audio>
+        <style>
+
+        .bigImage{
+            display: block;
+            height:100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .bigImage:active{
+            animation-name: rotate;
+            animation-duration: 1s;
+        }
+        h1 { 
+            position: absolute;
+            width:100%;
+            text-align:center;
+            font-size:50;
+        }
+
+        @keyframes rotate {
+            from{rotate: 0deg;}
+            to{rotate: 360deg;}
+        }
+        </style>
     <body>
 </html>
