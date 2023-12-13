@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+
+<channel>
+  <title>Dumme torben is released!</title>
+  <link>https://dumme-torben.dk/</link>
+  <description>Det bedste sted for alle dine dumme torben needs</description>
+  <item>
+    <title>Nu er dumme torben live</title>
+    <link>https://www.youtube.com/watch?v=dQw4w9WgXcQ</link>
+    <description>dumme torben er live, og der kommer aldrig til at være nogle opdateringer</description>
+  </item>
+</channel>
+
+</rss>
